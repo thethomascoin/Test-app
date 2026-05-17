@@ -1,0 +1,6 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+08:42:13	2588/2588	---M--	200	added ('OK')	text/html	etag:W/%22a1c-19e345fcc50%22	https://youtubeviralblueprint.com/freevideo	/storage/emulated/0/HTTrack/Websites/test/youtubeviralblueprint.com/freevideo.html	(from )
+08:42:14	2588/2588	---M--	200	added ('OK')	text/html	etag:W/%22a1c-19e345fcc50%22	https://youtubeviralblueprint.com/robots.txt		(from )
+08:42:15	1145/1145	---M--	200	added ('OK')	image/png	etag:W/%22479-19e345fcc50%22	https://youtubeviralblueprint.com/favicon.png	/storage/emulated/0/HTTrack/Websites/test/youtubeviralblueprint.com/favicon.png	(from https://youtubeviralblueprint.com/freevideo)
+08:42:18	82369/82369	---M--	200	added ('OK')	text/css	etag:W/%22141c1-19e345fcc50%22	https://youtubeviralblueprint.com/assets/index-DOH6Whr5.css	/storage/emulated/0/HTTrack/Websites/test/youtubeviralblueprint.com/assets/index-DOH6Whr5.css	(from https://youtubeviralblueprint.com/freevideo)
+08:42:18	293710/293710	---M--	200	added ('OK')	application/javascript	etag:W/%2247b4e-19e345fcc50%22	https://youtubeviralblueprint.com/assets/index-DaStzfHK.js	/storage/emulated/0/HTTrack/Websites/test/youtubeviralblueprint.com/assets/index-DaStzfHK.js	(from https://youtubeviralblueprint.com/freevideo)
